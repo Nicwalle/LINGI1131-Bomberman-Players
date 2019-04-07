@@ -1,0 +1,4 @@
+*
+!Player[0-9]*.ozf
+!readme.md
+!.gitignore

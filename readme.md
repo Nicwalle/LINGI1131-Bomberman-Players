@@ -18,10 +18,9 @@ The ``.gitignore`` file of this project has been thought such that it ignores ev
 
 ## How to contribute ?
 1. Compile your **working** player into a file having the following name:
-   ``Player[GROUP NUMBER]-[PLAYER NAME].ozf`` (e.g. Player003-Mike.ozf) 
-
+   ``Player[GROUP NUMBER][PLAYER NAME].ozf`` (e.g. Player003Mike.ozf).
    [PLAYER NAME] identifies your different players.
-2. Add your player and a description of its behavior in the Players' description table of the ``readme``
-3. Make a pull request
+2. Add your player and a description of its behavior in the Players' description table of the ``readme``.
+3. Make a pull request.
 
 

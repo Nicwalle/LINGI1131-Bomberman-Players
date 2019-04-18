@@ -7,7 +7,7 @@ This repository is the initiative of **Brieuc de Voghel** and **Nicolas van de W
 | Group | Filename            | Description           |
 |-------|---------------------|-----------------------|
 | 000   | Player000bomber.ozf | Default random player |
-|       |                     |                       |
+| 003   | Player003John.ozf   | Basic random player (no extension)|
 
 ## How to use ?
 Clone/Download the **content** of the repository into your project.

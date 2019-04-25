@@ -12,6 +12,8 @@ This repository is the initiative of **Brieuc de Voghel** and **Nicolas van de W
 | 087   | Player087Basic.ozf| Basic random player (with shield and life extension) |
 | 087   | Player087Keyboard.ozf| Keyboard controlled player (with shield and life extension) |
 | 087   | Player087Bomber.ozf| Advanced player :<br> - avoids explosions<br> - [Bug] Do nothing if it cannot avoid explosions<br> - Shield and life extension |
+| 105 | Player105Alex.ozf | Basic random player |
+| 105 | Player105Alice.ozf | Intermediate player<br> 1- Dodges bombs<br> 2- Gets points or explodes boxes |
 
 
 ## How to use ?

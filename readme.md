@@ -12,12 +12,12 @@ This repository is the initiative of **Brieuc de Voghel** and **Nicolas van de W
 | 005   | Player005Tozzi.ozf| Basic player (with shield and life extension)<br> Tries to go to the middle of the map |
 | 038   | Player038Mario.ozf | Basic random player, 1/10 probability of dropping a bomb (with shield, life and life malus extensions) |
 | 038   | Player038Luigi.ozf | Advanced player :<br> - avoids explosions<br> - tries to catch bonuses/points<br> - drops a bomb if it stands next to a box <br> - shield, life and life malus extensions |
+| 077   | Player007James.ozf | Advanced player :<br> - avoids explosions<br> - Dijkstra to catch points<br> - drops a bomb if it stands next to a box <br> - shield life extensions |
 | 087   | Player087Basic.ozf | Basic random player (with shield and life extension) |
 | 087   | Player087Keyboard.ozf| Keyboard controlled player (with shield and life extension) |
 | 087   | Player087Bomber.ozf| Advanced player :<br> - avoids explosions<br> - [Bug] Do nothing if it cannot avoid explosions<br> - Shield and life extension |
 | 105 | Player105Alex.ozf | Basic random player |
 | 105 | Player105Alice.ozf | Intermediate player<br> 1- Dodges bombs<br> 2- Gets points or explodes boxes |
-| 077   | Player007James.ozf | Advanced player :<br> - avoids explosions<br> - Dijkstra to catch points<br> - drops a bomb if it stands next to a box <br> - shield life extensions |
 
 ## How to use ?
 Clone/Download the **content** of the repository into your project.
